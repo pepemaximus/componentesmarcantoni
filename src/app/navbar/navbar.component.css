@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+    
+}
+
+.li {
+    background-color: blue;
+}

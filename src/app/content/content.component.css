@@ -1,0 +1,43 @@
+.negrita {
+    font-style: normal; font-variant: normal; font-weight: bold;
+}
+.landing-text {
+    margin: 5%;
+    color: turquoise;
+    max-width: 80%;
+    font-size: 150%;
+}
+.cards {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 30px;
+    position: relative;
+    top: 5%;
+    height: auto;
+    justify-content: space-around;
+    align-items: center;
+}
+.card {
+    padding: 5px;
+}
+.footer-flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; 
+    align-self: center; margin: 2%; padding: 1%;
+    max-width: 80%; flex-wrap: wrap;
+}
+#textoFooterIndex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; align-items: center;
+    margin: 0%; padding: 0%;
+    flex-wrap: wrap;
+    font-size: 130%; 
+    font-style: normal; font-variant: normal; font-weight: bold;
+    position: relative; top: 70px;
+    width: 80%; 
+}
